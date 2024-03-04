@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+
 int main() {
     int temp[5];
     bool cooler = true;
